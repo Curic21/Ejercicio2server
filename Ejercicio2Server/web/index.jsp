@@ -10,9 +10,9 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
-    <javascript>
+         <javascript>
         
-        i: int i=0;
+        i: float i=0;
         
     </javascript>
     </head>
