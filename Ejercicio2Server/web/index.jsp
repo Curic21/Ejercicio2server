@@ -13,11 +13,10 @@
          <javascript>
         
         i: float i=0;
-        a: int a=2;
-       
+        
     </javascript>
     </head>
     <body>
-        <h1>Hello World! de Jordi Eslava rama1</h1>
+        <h1>Hello World! de Jordi Eslava bla bla bla</h1>
     </body>
 </html>
